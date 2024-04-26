@@ -1,4 +1,3 @@
-#MEXICO TOY SALES – MAVEN TOYS
 Maven Toys, a company currently operating in North and South America with around 50 stores, is looking to expand its reach to key markets in North America and Europe. To identify areas for improvement and propose strategies for successful expansion, this document analyzes sales data. Although the global toy market is expected to grow significantly, Maven Toys faces challenges such as seasonality, lack of online presence, and underperforming product categories.
 
 ## Data Preparation
